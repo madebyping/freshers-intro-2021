@@ -212,7 +212,7 @@ button{
 	padding-left: 2rem;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 400px) {	
   .margin-box-left {
     padding-left: 0;
   }
@@ -226,13 +226,18 @@ button{
    	font-size: 20px;
   }
   .img3{
-  	position: relative;
-  	padding: 0;
+	position: relative;
+	padding: 0;
   }
   .img2 {
-	  width: 100%;
+	max-width: 100%;
   }
+
   button{
   	margin-bottom: 2rem;
+  }
+
+  #space {
+	  padding-bottom: 100px;
   }
 }
