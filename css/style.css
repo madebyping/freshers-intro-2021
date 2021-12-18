@@ -216,21 +216,25 @@ button{
   .margin-box-left {
     padding-left: 0;
   }
+  
   .row{
   	min-height: 60vh;
   }
+
   h1{
    	font-size: 11vw;
   }
+
   h2{
    	font-size: 20px;
   }
+
   .img3{
 	position: relative;
 	padding: 0;
   }
   .img2 {
-	max-width: 100%;
+	display: none;
   }
 
   button{
