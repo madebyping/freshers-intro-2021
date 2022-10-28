@@ -41,7 +41,7 @@ h1, h2{
 }
 
 .row{
-	min-height: 50vh;
+	min-height: 100vh;
 	padding-top: 50px;
 	margin-left: 0 !important;
 }
@@ -65,19 +65,19 @@ h1, h2{
 }
 
 .orange{
-	background-color: #e1937c;
+	background-color: #EB5B2E;
 }
 
 .blue{
-	background-color: #c4ecf9;
+	background-color: #2e4b9b;
 }
 
 .yellow{
-	background-color: #e5be5c;
+	background-color: #fcbe2f;
 }
 
 .purple{
-	background-color: #d26199;
+	background-color: #4a2c60;
 }
 
 .violet{
@@ -85,11 +85,11 @@ h1, h2{
 }
 
 .pink{
-	background-color: #ff869c;
+	background-color: #b877db;
 }
 
 .red{
-	background-color: #c94866;
+	background-color: #e85678;
 }
 
 .parent {
@@ -131,7 +131,7 @@ h1, h2{
 }
 
 .img5{
-	width: 50%;
+	width: 70%;
 }
 
 .mid{
@@ -144,10 +144,6 @@ h1, h2{
 	font-family: faccha_exp;
 	color: #084582;
 	position: relative;
-}
-
-.box6{
-	padding:90px;
 }
 
 .box3 h1, .box4 h1, .box5 h1, .box6 h1, .box_last h1{
@@ -177,7 +173,7 @@ button{
 }
 
 .col-lg-12 div{
-	padding-top: 3%;
+	padding-top: 10%;
 }
 
 .box5{

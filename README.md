@@ -1,3 +1,1 @@
-# Freshers Intro  
-
-## by Ping !
+# freshers-intro-2022
