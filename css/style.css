@@ -92,6 +92,14 @@ h1, h2{
 	background-color: #c94866;
 }
 
+.lp{
+	background-color: rgb(204, 153, 255);
+}
+
+.green2{
+	background-color: rgb(255, 102, 26);
+}
+
 .parent {
 	overflow-y: scroll;
 	height: 100vh;
